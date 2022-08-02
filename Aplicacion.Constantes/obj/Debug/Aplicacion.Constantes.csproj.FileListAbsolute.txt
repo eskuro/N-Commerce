@@ -1,0 +1,40 @@
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+F:\Daud TODAY\N-Commerce3\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+F:\Daud TODAY\N-Commerce3\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+F:\Daud TODAY\N-Commerce3\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+F:\Daud TODAY\N-Commerce3\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+F:\Daud TODAY\N-Commerce3\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+F:\Daud TODAY\N-Commerce3\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+F:\Daud TODAY\N-Commerce3\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+F:\Daud TODAY\N-Commerce3\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+F:\N-Commerce3\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+F:\N-Commerce3\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+F:\N-Commerce3\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+F:\N-Commerce3\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+F:\N-Commerce3\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+F:\N-Commerce3\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+F:\N-Commerce3\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+F:\N-Commerce3\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+F:\N-Commerce Parcial\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+F:\N-Commerce Parcial\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+F:\N-Commerce Parcial\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+F:\N-Commerce Parcial\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+F:\N-Commerce Parcial\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+F:\N-Commerce Parcial\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+F:\N-Commerce Parcial\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+F:\N-Commerce Parcial\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb

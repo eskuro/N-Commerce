@@ -1,0 +1,63 @@
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+F:\Daud TODAY\N-Commerce3\PresentacionBase\bin\Debug\PresentacionBase.dll
+F:\Daud TODAY\N-Commerce3\PresentacionBase\bin\Debug\PresentacionBase.pdb
+F:\Daud TODAY\N-Commerce3\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+F:\Daud TODAY\N-Commerce3\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+F:\Daud TODAY\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+F:\Daud TODAY\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+F:\Daud TODAY\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+F:\Daud TODAY\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+F:\Daud TODAY\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+F:\Daud TODAY\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+F:\Daud TODAY\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+F:\Daud TODAY\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+F:\Daud TODAY\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+F:\Daud TODAY\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.dll
+F:\Daud TODAY\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.pdb
+F:\Daud TODAY\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+F:\N-Commerce3\PresentacionBase\bin\Debug\PresentacionBase.dll
+F:\N-Commerce3\PresentacionBase\bin\Debug\PresentacionBase.pdb
+F:\N-Commerce3\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+F:\N-Commerce3\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+F:\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+F:\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+F:\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+F:\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+F:\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+F:\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+F:\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+F:\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+F:\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+F:\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+F:\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.dll
+F:\N-Commerce3\PresentacionBase\obj\Debug\PresentacionBase.pdb
+F:\N-Commerce Parcial\PresentacionBase\bin\Debug\PresentacionBase.dll
+F:\N-Commerce Parcial\PresentacionBase\bin\Debug\PresentacionBase.pdb
+F:\N-Commerce Parcial\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+F:\N-Commerce Parcial\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+F:\N-Commerce Parcial\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+F:\N-Commerce Parcial\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+F:\N-Commerce Parcial\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+F:\N-Commerce Parcial\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+F:\N-Commerce Parcial\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+F:\N-Commerce Parcial\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+F:\N-Commerce Parcial\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+F:\N-Commerce Parcial\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+F:\N-Commerce Parcial\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+F:\N-Commerce Parcial\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+F:\N-Commerce Parcial\PresentacionBase\obj\Debug\PresentacionBase.dll
+F:\N-Commerce Parcial\PresentacionBase\obj\Debug\PresentacionBase.pdb
